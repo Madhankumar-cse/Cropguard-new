@@ -1,0 +1,7 @@
+{
+  "name": "CropGuard AI Pro",
+  "description": "AI-Powered Crop Yield Forecasting system estimating expected yield and production from historical crop, soil, weather, and cultivation information.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
